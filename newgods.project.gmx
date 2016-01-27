@@ -19,17 +19,17 @@
         <sprite>sprites\spr_fairy_back</sprite>
       </sprites>
       <sprites name="priestess">
-        <sprite>sprites\spr_priestess_back_idle</sprite>
-        <sprite>sprites\spr_priestess_back_jump</sprite>
-        <sprite>sprites\spr_priestess_back_walk</sprite>
-        <sprite>sprites\spr_priestess_front_fall</sprite>
-        <sprite>sprites\spr_priestess_front_float</sprite>
         <sprite>sprites\spr_priestess_front_idle</sprite>
-        <sprite>sprites\spr_priestess_front_jump</sprite>
         <sprite>sprites\spr_priestess_front_walk</sprite>
+        <sprite>sprites\spr_priestess_back_walk</sprite>
         <sprite>sprites\spr_priestess_side_idle</sprite>
-        <sprite>sprites\spr_priestess_side_jump</sprite>
         <sprite>sprites\spr_priestess_side_walk</sprite>
+        <sprite>sprites\spr_priestess_side_jump</sprite>
+        <sprite>sprites\spr_priestess_back_idle</sprite>
+        <sprite>sprites\spr_priestess_front_float</sprite>
+        <sprite>sprites\spr_priestess_front_jump</sprite>
+        <sprite>sprites\spr_priestess_back_jump</sprite>
+        <sprite>sprites\spr_priestess_front_fall</sprite>
       </sprites>
     </sprites>
     <sprites name="enemies">
